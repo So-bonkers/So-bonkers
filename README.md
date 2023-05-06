@@ -28,3 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=So-bonkers&theme=tokyonight&hide=makefile,cmake)](https://github.com/anuraghazra/github-readme-stats) </div>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=so-bonkers&" alt="so-bonkers" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=So-bonkers)](https://github.com/anuraghazra/github-readme-stats)
