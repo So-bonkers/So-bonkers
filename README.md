@@ -26,7 +26,7 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=So-bonkers&theme=tokyonight&hide=makefile,cmake)](https://github.com/anuraghazra/github-readme-stats) </div>
-<p align="center">
+<p>
 <img src="https://wakatime.com/share/@So_bonkers/5201961b-3f95-459a-81c6-60da4dea16cb.svg" height="400" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=so-bonkers&" alt="so-bonkers" /></p>
