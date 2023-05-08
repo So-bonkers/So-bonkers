@@ -27,6 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=So-bonkers&theme=tokyonight&hide=makefile,cmake)](https://github.com/anuraghazra/github-readme-stats) </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=So_bonkers)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@So_bonkers/5201961b-3f95-459a-81c6-60da4dea16cb.svg"></embed></figure>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=so-bonkers&" alt="so-bonkers" /></p>
