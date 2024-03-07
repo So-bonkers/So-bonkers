@@ -5,7 +5,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/6302a837-6937-4a3a-9298-ed271beda161.svg)](https://wakatime.com/@6302a837-6937-4a3a-9298-ed271beda161)
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=so-bonkers" alt="so-bonkers" /></a> </p>
 
 - 🔭 I’m currently working on **Representation learning in the audio domain**
