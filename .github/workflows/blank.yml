@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 
 name: Waka Readme
 
@@ -16,4 +15,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_SECRETS }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
