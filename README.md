@@ -32,4 +32,4 @@
 <p>
 <img src="https://wakatime.com/share/@So_bonkers/5201961b-3f95-459a-81c6-60da4dea16cb.svg" height="400" />
 </p>
-![GitHub Stats](https://streak-stats.demolab.com?user=so-bonkers&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=so-bonkers&theme=default&show_icons=true&hide_border=true&count_private=true)
