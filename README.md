@@ -32,4 +32,3 @@
 <p>
 <img src="https://wakatime.com/share/@So_bonkers/5201961b-3f95-459a-81c6-60da4dea16cb.svg" height="400" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
