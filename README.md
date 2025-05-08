@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/6302a837-6937-4a3a-9298-ed271beda161.svg)](https://wakatime.com/@6302a837-6937-4a3a-9298-ed271beda161)
 
 <!--START_SECTION:waka-->
-
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26667%26project%3D%26in=0)](https://codetime.dev)
 <!--END_SECTION:waka-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=so-bonkers" alt="so-bonkers" /></a> </p>
